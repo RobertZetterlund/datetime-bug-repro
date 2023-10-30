@@ -1,5 +1,7 @@
 {
   "name": "datetime-bug-repro",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
